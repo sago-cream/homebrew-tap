@@ -1,6 +1,6 @@
 cask "comux" do
-  version "0.6.0"
-  sha256 "6e724a49bd40cc6af766b8e63443acd94723e337b7549194ee624f5ba6f47e6c"
+  version "0.6.1"
+  sha256 "bdfa1220a827f474919d5448c15047cf64df46988275a244a9f2f72851f48bb0"
 
   url "https://github.com/sago-cream/comux/releases/download/v#{version}/comux-#{version}.zip"
   name "comux"
