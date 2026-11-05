@@ -1,6 +1,6 @@
 cask "airloom" do
-  version "1.0.1"
-  sha256 "8e51b95a09abdb7dd1d063dec35c367fd2767453d7aa5dfb54fd465c508902c9"
+  version "1.0.2"
+  sha256 "21a6567efe9e36bd7869f277e02fda4417fadc8222ac73091100ae208b4e28c6"
 
   url "https://github.com/sago-cream/Airloom/releases/download/v#{version}/Airloom-#{version}.zip"
   name "Airloom"
