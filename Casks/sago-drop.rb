@@ -1,6 +1,6 @@
 cask "sago-drop" do
-  version "0.11.0"
-  sha256 "72b082e6c36594c9242d88aa01f5cdcc351b2ef01a83c903812d458fc414194c"
+  version "0.11.1"
+  sha256 "1c7a9816a067078a21bc4c4ade5c212679dd4f95fdfbc07d8154269cad11902d"
 
   url "https://github.com/sago-cream/sago-drop/releases/download/v#{version}/Sago-Drop-#{version}.zip"
   name "Sago Drop"
