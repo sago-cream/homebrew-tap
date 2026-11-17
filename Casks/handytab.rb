@@ -1,6 +1,6 @@
 cask "handytab" do
-  version "0.1.0"
-  sha256 "69f336531cb03d8123ae4012ba72a006b482c7bffc5bfe35f010af2f7064e2f5"
+  version "0.1.1"
+  sha256 "2fd5f6be28502e31b0fefbfa0257f59016a6b74f9317eed9a508ac83d1f8db68"
 
   url "https://github.com/sago-cream/handy-tab/releases/download/v#{version}/HandyTab-#{version}.zip"
   name "HandyTab"
